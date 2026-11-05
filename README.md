@@ -27,5 +27,5 @@ Power BI Desktop · Power Query · Data Modeling · DAX · KPI Cards · Slicers 
 | File | Description |
 |---|---|
 | [Student_Addiction_Final.pbix](Student_Addiction_Final.pbix) | Power BI dashboard file |
-| [Student_Addiction_Dashboard.pdf](Student_Addiction_Dashboard.pdf) | Dashboard export (PDF) |
+| [Student_Addiction_PowerBI_Dashboard.pdf](Student_Addiction_PowerBI_Dashboard.pdf) | Dashboard export (PDF) |
 | [dataset.csv](dataset.csv) | Dataset used |
